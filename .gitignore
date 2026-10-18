@@ -1,0 +1,5 @@
+.venv/
+.venv312/
+dataset/
+test/
+__pycache__/
