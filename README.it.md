@@ -1,5 +1,8 @@
 [🇬🇧 English](README.md) | [🇮🇹 Italiano](README.it.md)
 
+- [English Notebook](BoletusSpieces.en.ipynb)
+- [Italian Notebook](BoletusSpieces.it.ipynb)
+
 # BoletusSpieces — What Type of Boletus Is It? 🍄
 
 Un progetto sperimentale di **classificazione delle immagini** realizzato con Python, fast.ai e PyTorch.
